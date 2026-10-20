@@ -1,0 +1,8 @@
+{"timestamp":"00:00:00.731","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:00.731","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:00.731","source":"Server","level":"LOG","message":"- Experiments (use with caution):"}
+{"timestamp":"00:00:00.732","source":"Server","level":"LOG","message":"  ✓ agentFeedback"}
+{"timestamp":"00:00:00.732","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:02.117","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:06.177","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"03:46:56.232","source":"Server","level":"LOG","message":"  Turbopack has seen frequent file updates and is waiting for the filesystem to settle (0.5s elapsed so far; last modified: \"\\\\\\\\?\\\\C:\\\\Users\\\\Yoshiyuki\\\\Documents\\\\working\\\\business-dashboard\\\\frontend\\\\node_modules\\\\word-wrap\")."}
